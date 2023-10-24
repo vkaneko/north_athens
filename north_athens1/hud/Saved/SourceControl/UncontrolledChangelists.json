@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/north_athens1/hud/Content/HUD/icone-habilidade-powerup-transparent.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/north_athens1/hud/Content/HUD/interface_ingame.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/north_athens1/hud/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/interface_ingame.uasset",
 				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
