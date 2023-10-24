@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/interface_ingame.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/KronaOne-Regular.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/healthbar.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/green.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/grey.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/health.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/HUD.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/KronaOne-Regular_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/healthbar_cinza.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/green2.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/life_counter.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/transparent.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/icone-municao.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/icone-pistola.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Black.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/Inter-VariableFont_slnt_wght.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Bold.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-ExtraBold.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-ExtraLight.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Light.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Medium.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Regular.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-SemiBold.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Thin.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Black_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Bold_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-ExtraBold_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-ExtraLight_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Light_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Medium_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Regular_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-SemiBold_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/static/Inter-Thin_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/fonts/inter_font/Inter-VariableFont_slnt_wght_Font.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/icone-habilidade-aumentar-poder.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/power_up_karen.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/icone-habilidade-powerup.uasset",
+				"D:/Arquivos/Projeto Game Jam Plus/north_athens/hud/Content/HUD/interface.uasset"
+			]
+		}
+	]
+}
